@@ -2,7 +2,7 @@
 
 As part of the KDAN ecosystem, ComPDF Conversion SDK empowers your Java applications to convert PDF files into editable Office documents, images, HTML, and more — with a clean Java API. Whether you're building enterprise document management systems, web applications, or backend services, you can integrate PDF conversion capabilities that preserve layout, tables, and formatting across Windows, Linux, and macOS.
 
-> If you find this library helpful, please consider giving us a ⭐ **Star** on GitHub! Have feedback or questions? Join the conversation in our [Discussions](https://github.com/orgs/ComPDFKit/discussions).
+> If you find this library helpful, please consider giving us a ⭐ **Star** on GitHub! Have feedback or questions? Join the conversation in our [Discussions](https://github.com/ComPDFKit/compdfkit-conversion-sdk-java/discussions).
 
 **Supported Features**
 
